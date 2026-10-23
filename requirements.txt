@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.8.0+cu128
+torchvision==0.23.0+cu128
+diffusers==0.34.0
+transformers==4.56.2
+peft==0.17.0
+accelerate==1.10.0
+huggingface-hub==0.34.4
+numpy==2.1.2
+Pillow==11.0.0
+absl-py==2.3.1
+ml-collections==1.1.0
+wandb==0.21.1
+tqdm==4.67.1
+dreamsim==0.2.1
+sentencepiece==0.2.0
+protobuf==3.20.3
+hpsv2==1.2.0

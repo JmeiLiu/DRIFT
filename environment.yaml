@@ -1,0 +1,8 @@
+name: drift
+channels:
+  - defaults
+dependencies:
+  - python=3.12.11
+  - pip=25.1
+  - pip:
+      - -r requirements.txt
