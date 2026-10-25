@@ -1,3 +1,4 @@
+# Modified for DRIFT. See LICENSE and NOTICE for license and attribution details.
 # Copied from another repo, but I can't remember exactly which one.
 
 from collections.abc import Iterable

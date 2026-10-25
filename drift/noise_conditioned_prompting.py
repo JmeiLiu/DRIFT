@@ -1,3 +1,4 @@
+# Modified for DRIFT. See LICENSE and NOTICE for license and attribution details.
 import copy
 from typing import Any, Callable, Dict, List, Optional, Union
 

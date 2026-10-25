@@ -1,3 +1,4 @@
+# Modified for DRIFT. See LICENSE and NOTICE for license and attribution details.
 import os
 import torch
 from tqdm import tqdm

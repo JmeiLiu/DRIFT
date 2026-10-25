@@ -1,3 +1,4 @@
+# Modified for DRIFT. See LICENSE and NOTICE for license and attribution details.
 # Copied from https://github.com/kvablack/ddpo-pytorch
 # Copied from https://github.com/kvablack/ddpo-pytorch
 # Copied from https://github.com/huggingface/diffusers/blob/fc6acb6b97e93d58cb22b5fee52d884d77ce84d8/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py

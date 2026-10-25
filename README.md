@@ -43,3 +43,5 @@ bash train.sh sd35_shaping_hps
 ```
 
 Run `bash train.sh` to list all available commands. SD3.5-M requires access to the base model; use `huggingface-cli login` if needed.
+
+Licensed under Apache-2.0; see [LICENSE](LICENSE) and [NOTICE](NOTICE) for third-party terms and attribution.

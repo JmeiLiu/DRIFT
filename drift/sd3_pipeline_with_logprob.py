@@ -1,3 +1,4 @@
+# Modified for DRIFT. See LICENSE and NOTICE for license and attribution details.
 # Copied from https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion_3/pipeline_stable_diffusion_3.py
 # with the following modifications:
 # - It uses the patched version of `sde_step_with_logprob` from `sd3_sde_with_logprob.py`.

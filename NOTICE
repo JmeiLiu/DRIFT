@@ -1,0 +1,73 @@
+DRIFT - Third-party attribution and license notices
+
+This repository includes code adapted from the following projects.
+Original third-party copyrights and license terms remain applicable.
+
+Hugging Face Diffusers
+https://github.com/huggingface/diffusers
+License: Apache-2.0 (see LICENSE)
+Applies to adapted diffusion pipelines, schedulers and prompt encoding in drift/.
+Copyright 2023 Stanford University Team and The HuggingFace Team. All rights reserved.
+Copyright 2023 The HuggingFace Team. All rights reserved.
+Copyright 2025 Stability AI, The HuggingFace Team and The InstantX Team. All rights reserved.
+Copyright 2025 The HuggingFace Inc. team. All rights reserved.
+
+DDPO-PyTorch
+https://github.com/kvablack/ddpo-pytorch
+Applies to adapted SD training infrastructure and probability-computing pipeline
+and scheduler code in diffusion/, config/ and drift/.
+
+MIT License
+
+Copyright (c) 2023 Kevin Black
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Flow-GRPO
+https://github.com/yifan123/flow_grpo
+Applies to adapted SD3.5 training infrastructure, utilities and flow pipeline
+and scheduler code in flow/, config/ and drift/.
+
+MIT License
+
+Copyright (c) 2025 Jie Liu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+DRIFT modifications include the independent training components, reward handling,
+configuration, module organization, and local model loading. Modified source files
+are marked accordingly; upstream source comments are retained.
+
+Downloaded models and separately installed dependencies retain their own licenses.
